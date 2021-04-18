@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "saurocketIO",
+  "mongoURI": "mongodb+srv://sauroclet:qweasd@cluster0.lq9ea.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl":  "http://localhost:5000"
+}
